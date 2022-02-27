@@ -1,0 +1,989 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moderate message to Quakers, seekers and Socinians, by a friend and well-wisher to them all, or Some arguments offered to clear up three points in difference betwixt them and others ... By John Child.</title>
+            <author>Child, John, 1638?-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 83 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79503</idno>
+            <idno type="STC">Wing C3850</idno>
+            <idno type="STC">ESTC R171309</idno>
+            <idno type="EEBO-CITATION">45789225</idno>
+            <idno type="OCLC">ocm 45789225</idno>
+            <idno type="VID">172537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172537)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2638:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moderate message to Quakers, seekers and Socinians, by a friend and well-wisher to them all, or Some arguments offered to clear up three points in difference betwixt them and others ... By John Child.</title>
+                  <author>Child, John, 1638?-1684.</author>
+               </titleStmt>
+               <extent>[2], 74, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>"Three questions offered to be disputed with John Bunion ...": p. [1] at end.</note>
+                  <note>Advertising matter on p. [2]-[4] at end.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baptists --  England --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172537:1" rendition="simple:additions"/>
+            <pb facs="tcp:172537:1" rendition="simple:additions"/>
+            <p>A MODERATE MESSAGE TO QUAKERS, SEEKERS, AND SOCINIANS, By a FRIEND And Well-wiſher to them all.</p>
+            <p>OR Some Arguments offered to clear up three points in difference betwixt them and others, <hi>viz.</hi> the Baptiſm with Water, the Right of Admini<g ref="char:EOLhyphen"/>ſtration in this Age, and the Pre<g ref="char:EOLhyphen"/>exiſtancy of the Son of God to his being conceived of the Virgin.</p>
+            <p>By <hi>JOHN CHILD.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Job 32.9, 10.</hi>
+                  </bibl> Great men are not always wiſe neither do the aged underſtand judg<g ref="char:EOLhyphen"/>ment, therefore I alſo will ſhew my opinion.</p>
+               <p>
+                  <bibl>
+                     <hi>1 Cor. 4.5.</hi>
+                  </bibl> Judge nothing before the time.</p>
+            </q>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172537:2"/>
+            <pb n="1" facs="tcp:172537:2"/>
+            <head>
+               <hi>A</hi> Moderate Meſſage to Quakers, Seekers, and Socinians, by a Friend and Well-wiſher to them all, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is the common underſtanding of the Profeſſors of this Age, that the Quakers, (ſo called) do deny that Baptiſm with wa<g ref="char:EOLhyphen"/>ter is now a duty incumbent upon Chriſtians; and that the Seekers ſo called, do deny that any perſons have a right in this Age to Adminiſter it, although they do grant it to be a duty; and alſo that the <hi>Socinians,</hi> ſo call'd, do deny that the Son of God (out bleſſed Saviour, called Jeſus Chriſt) had a <hi>Being</hi> or <hi>Exiſtency</hi> before he was conceived of the Virgin: Now, al<g ref="char:EOLhyphen"/>though
+<pb n="2" facs="tcp:172537:3"/> my tenderneſs and reſpect towards them all is not ſmall (it be<g ref="char:EOLhyphen"/>ing the natural Iſſue and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts of my Principles, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o profeſs my ſelf a Latitude man, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all mankind, more eſpecially thoſe tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppear to be (in their way) ſincer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Profeſſors of Religion) yet I muſt crave leave for Truths ſake (though never ſo ſmall) to ſhew mine opinion to this end, that we might arive at ſuch an Oneneſs as at leaſt to maintain ſome amicable correſpondency one with a<g ref="char:EOLhyphen"/>nother, in order to a conviction by cool and ſedate Debates, without Exaſperation and Railery (things un<g ref="char:EOLhyphen"/>doubtedly hatcht in Hell) which ne<g ref="char:EOLhyphen"/>ver ſprang from <hi>Michael</hi>) who, though Diſputing with the Devil, the greateſt Heretick in the Crea<g ref="char:EOLhyphen"/>tion, yet durſt not bring Railing ac<g ref="char:EOLhyphen"/>cuſations againſt him, but ſaid, <hi>The Lord Rebuke thee:</hi> I do therefore coolly and kindly ſay to all the three Sects of Men before mentioned, that
+<pb n="3" facs="tcp:172537:3"/> I humbly conceive in the three points ſtated, that they are out of the way, and beſides the Truth, and that Bap<g ref="char:EOLhyphen"/>tiſm with Water is now a Duty in<g ref="char:EOLhyphen"/>cumbent upon Chriſtians, that there is ſome, even in this Age, have a right to Adminiſter the ſame; and that the Son of God, our Bleſſed Lord and Saviour, had a Preexiſtency to the Virgins conception, for the clearing up of which, we offer theſe following Arguments relating to each point in its Order.</p>
+            <p>Baptiſm with water in force to this day: proved as followeth,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> That Adminiſtration that was giv<g ref="char:EOLhyphen"/>en from Heaven as a Duty in com<g ref="char:EOLhyphen"/>mon to the Penitent or commers to Chriſt ſince the Miniſtration of <hi>Moſes</hi> is in force ſtill even to this day.<note place="margin">Major.</note>
+            </p>
+            <p>But Baptiſm with water was an Adminiſtration given from Heaven as a duty in common to the Penitent or commers to Chriſt ſince the Mi<g ref="char:EOLhyphen"/>niſtration of <hi>Moſes, Ergo,</hi>
+               <note place="margin">Minor.</note> It is in force ſtill.</p>
+            <pb n="4" facs="tcp:172537:4"/>
+            <p>This Argument as a fruitful Root yields us theſe five proper and uſeful branches, <hi>(viz.)</hi> 1. That Baptiſm with Water was a Miniſtration from Heaven. 2. That it was a Duty. 3. That it was a duty in common to the Penitent, or commers to Chriſt. 4. That it was ſince the Miniſtration of <hi>Moſes.</hi> 5. That it is in force ſtill, the proof of which (I think) eſta<g ref="char:EOLhyphen"/>bliſhes the Argument in all the parts of it.</p>
+            <p>And firſt, That it was from Hea<g ref="char:EOLhyphen"/>ven we thus prove.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> If Baptiſm with water was not from Heaven,<note place="margin">Major.</note> then it was of Men, or elſe <hi>John</hi> did adminiſter it of his own head.</p>
+            <p>
+               <note place="margin">Minor.</note>But it was not from Men, neither did <hi>John</hi> adminiſter it of his own head, <hi>Ergo,</hi> It was from Heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> That it was not of Men we thus prove.</p>
+            <p>
+               <note place="margin">Major.</note>If the Miniſtration of water Bap<g ref="char:EOLhyphen"/>tiſm was of Men, and not from Hea<g ref="char:EOLhyphen"/>ven,
+<pb n="5" facs="tcp:172537:4"/> then there was ſome Author of it before <hi>John Baptiſt</hi> from whom he received it.</p>
+            <p>But there was no Author of it be<g ref="char:EOLhyphen"/>fore <hi>John,</hi> from whom he received it,<note place="margin">Minor.</note> 
+               <hi>Ergo,</hi> it was not from men.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> The <hi>Major</hi> is good; the <hi>Minor</hi> we prove thus.</p>
+            <p>If there was ſome Author or be<g ref="char:EOLhyphen"/>ginner of this Miniſtration before <hi>John</hi> from whom he received it, then it is ſomewhere plainly and convin<g ref="char:EOLhyphen"/>cingly diſcovered. But</p>
+            <p>It is no where plainly and convin<g ref="char:EOLhyphen"/>cingly diſcovered, <hi>Ergo,</hi> it was not ſo. And that it was not of his own head, We thus prove.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> If it was of his own head, then it was a bare Invention and Tradition of man.<note place="margin">Major.</note> But</p>
+            <p>It was not a bare Invention and Tradition of man, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> it was not of his own head.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> That it was not a bare Invention and Tradition of man, we thus prove.</p>
+            <pb n="6" facs="tcp:172537:5"/>
+            <p>
+               <note place="margin">Major</note>That which our Saviour Chriſt ſubmitted to as part of his work, was no Invention or Tradition of men.</p>
+            <p>
+               <note place="margin">Minor</note>But our bleſſed Savior did himſelf ſubmit to <hi>Johns</hi> Baptiſme, <hi>Ergo,</hi> It was no Invention of Tradition of men.</p>
+            <p>The <hi>Minor</hi> is ungainſayable, The <hi>Major</hi> we prove thus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> If our Saviour had ſubmitted to the Invention and Tradition of men,<note place="margin">Major</note> then he had undervalued his own Authority, and opened a door for an Innovation in Religion.</p>
+            <p>
+               <note place="margin">Minor</note>But our Saviour did do neither of theſe, <hi>Ergo.</hi>
+            </p>
+            <p>And that it was neither of his own head, nor from men, but indeed from Heaven, we thus prove.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> That which was Righteouſneſs to ſubmit to:<note place="margin">Major</note> and Sin and Rebellion to reject, undoubtedly was from Hea<g ref="char:EOLhyphen"/>ven for nothing but the Authority of Heaven can conſtitute theſe two things <hi>(viz.)</hi> Sin and Righteouſneſs.</p>
+            <p>
+               <note place="margin">Minor</note>But it was Righteouſneſs to ſub<g ref="char:EOLhyphen"/>mit;
+<pb n="7" facs="tcp:172537:5"/> wickedneſs and Rebellion to reject <hi>Johns</hi> Baptiſme, <hi>Ergo,</hi> it was from Heaven.</p>
+            <p>The <hi>Major</hi> none will deny: the <hi>Minor</hi> is p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved from plain Scrip<g ref="char:EOLhyphen"/>ture, <hi>Mat.</hi> 3.15. <hi>Jeſus ſaid unto John, ſuffer it to be ſo now, for thus it be<g ref="char:EOLhyphen"/>cometh us to fulfill all Righteouſneſs.</hi>
+            </p>
+            <p>The Scribes and Phariſes Rejected the Councel of God againſt them<g ref="char:EOLhyphen"/>ſelves,<note place="margin">☜</note> in not being Baptized of <hi>John.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>9</label> If God himſelf ſent <hi>John</hi> to Bap<g ref="char:EOLhyphen"/>tize, then <hi>John</hi>'s baptiſme was from Heaven.<note place="margin">Major.</note>
+            </p>
+            <p>But God himſelf ſent <hi>John</hi> to Bap<g ref="char:EOLhyphen"/>tize,<note place="margin">Minor.</note> 
+               <hi>Ergo,</hi> his Baptiſme was from Heaven.</p>
+            <p>The <hi>Major</hi> can live without beg<g ref="char:EOLhyphen"/>ging: and the <hi>Minor</hi> bares up it ſelf upon this immoveable Pillar,<note place="margin">
+                  <hi>Jo.</hi> 1.6.33.</note> 
+               <hi>John</hi> 1.6. v. 33. <hi>John</hi> ſaith, God ſent him to Baptize with water, from whence we paſs to the <hi>(Second)</hi> part of the Argument, <hi>(viz.)</hi> that it is a duty; for the proof of which, we
+<pb n="8" facs="tcp:172537:6"/> need do no more but borrow ſome<g ref="char:EOLhyphen"/>thing from the eight Argument al<g ref="char:EOLhyphen"/>ready laid down, and that is this.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>10</label> That which men were charged with ſin for the neglect of,<note place="margin">Major.</note> was doubtleſs a duty to perform.</p>
+            <p>
+               <note place="margin">Minor.</note>But men were charged with ſin for the neglect of water baptiſme, <hi>Ergo,</hi> it was their duty to perform; they rejected the Councel of God, <hi>&amp;c.</hi> In not being Baptiz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d of <hi>John.</hi> And that it was a duty in common to the Penitent or comers to Chriſt (which is the Third part of the Argument) we prove thus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>11</label> That which was adminiſtred to Multitudes as their duty,<note place="margin">
+                  <hi>Major Mark.</hi> 1.5.</note> and the reſt that refuſed, condemn'd for not doing of it, was a duty in Common unto men.</p>
+            <p>But Baptiſme with water was Adminiſtred to Multitudes, and the reſt that refuſed, condemned for not doing of it, <hi>Ergo,</hi> it was a duty in Common, <hi>Mat.</hi> 3.5.6. All Ju<g ref="char:EOLhyphen"/>dah
+<pb n="9" facs="tcp:172537:6"/> and Jeruſalem came to <hi>John</hi> to be Baptized of him, confeſſing their ſins, and they that refuſed, are condemned as rejectors of Gods Councel.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>12</label> And that it was a duty in Common we further illuſtrate after this man<g ref="char:EOLhyphen"/>ner.<note place="margin">Major.</note>
+            </p>
+            <p>That Miniſtration which Chriſt and his Diſciples took up and follow<g ref="char:EOLhyphen"/>ed after <hi>John,</hi> was a duty in Com<g ref="char:EOLhyphen"/>mon unto men.</p>
+            <p>But Baptiſme with water Jeſus and his diſciples took up and follow<g ref="char:EOLhyphen"/>ed after <hi>John, Ergo,</hi>
+               <note place="margin">Minor.</note> it was a duty in Common.</p>
+            <p>'Tis ſaid Jeſus made and Baptized more diſciples then <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi>
+               <note place="margin">
+                  <hi>Joh.</hi> 3.26.</note> though not by his own hands, but his diſ<g ref="char:EOLhyphen"/>ciples, <hi>John</hi> 4.2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>13</label> That which was Adminiſtred in the name of Chriſt,<note place="margin">Major.</note> by an Authority Apoſtolical, both unto Jews and Gen<g ref="char:EOLhyphen"/>tiles, was a duty in Common unto men.</p>
+            <p>But Baptiſme with water was Ad<g ref="char:EOLhyphen"/>miniſtred<note place="margin">Minor.</note>
+               <pb n="10" facs="tcp:172537:7"/> in the name of Chriſt by an Authority Apoſtolical, both unto the Jews and Gentills, <hi>Ergo,</hi> it was a duty in Common.</p>
+            <p>The <hi>Major</hi> we have no doubt of, the <hi>Minor</hi> is proved from theſe two plain texts, <hi>Acts.</hi> 2.38. <hi>Be Baptized every one of you,</hi> &amp;c. <hi>Acts</hi> 10.48. <hi>And he Commanded them to be Bap<g ref="char:EOLhyphen"/>tized in the name of the Lord J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus.</hi> Now that this was ſince the Miniſtra<g ref="char:EOLhyphen"/>tion of <hi>Moſes</hi> there need be no proof, we therefore come to the laſt part of the Argument which is the thing moſt Scrupel'd, <hi>(viz.)</hi> that it is in force ſtill, but before we enter upon the proof of it, we ſhall hit away one objection.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> All things that were given from Heaven ſince the Miniſtration of <hi>Moſes</hi> do not continue in force ſtill, for Chriſt taught his diſciples not to take a ſtaff nor to Sallute any by the way and the like; and none can deny but this was from Heaven; yet not
+<pb n="11" facs="tcp:172537:7"/> in force ſtill, therefore Baptiſme might be of the like Temporary con<g ref="char:EOLhyphen"/>ſideration, and might end as this did with a notwithſtanding.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> If the grand Argument be conſi<g ref="char:EOLhyphen"/>dered it leaves no Roome for this Objection; becauſe that ſayes, that Miniſtration that was given from Heaven as a duty in Common to men; but this in the Obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction was not given as a duty in common, for though the immediate followers of our Saviour were to obſerve it for a ſpecifick Reaſon, yet where was it Preacht to, impoſed upon, or owned by men in common, as baptiſm was; if not, 'tis not to the purpoſe, but is lame, and halts, as not being able to go, and ſo we ſhall leave it to prove that Baptiſm is in force ſtill.</p>
+            <p>Which is done by theſe following Arguments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>14</label> If the Baptiſm and miniſtration of of <hi>John</hi> was a part of the Goſpel of Jeſus Chriſt, then it is in force ſtill.<note place="margin">Major.</note>
+            </p>
+            <pb n="12" facs="tcp:172537:8"/>
+            <p>
+               <note place="margin">Minor.</note>But the Baptiſm and miniſtration of <hi>John</hi> is a part of the Goſpel of Je<g ref="char:EOLhyphen"/>ſus Chriſt, <hi>Ergo,</hi> the Baptiſm and miniſtration of <hi>John</hi> is in force ſtill.</p>
+            <p>The <hi>Major</hi> is unqueſtionable, un<g ref="char:EOLhyphen"/>leſs we ſhall ſuppoſe that a part of the Goſpel, as well as the Law, is made void; which to ſuppoſe, will bring us to a Rock that we cannot diſ<g ref="char:EOLhyphen"/>cover now.</p>
+            <p>The <hi>Minor</hi> is plainly proved, <hi>Mark.</hi> 1. and beginning where the miniſtration of <hi>John</hi> is plainly call'd the beginning of the Goſpel of Jeſus Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>15</label> If the Baptiſm and miniſtration of <hi>John</hi> be not in force ſtill,<note place="margin">Major.</note> then it is ended.</p>
+            <p>
+               <note place="margin">Minor.</note>But it is not ended, <hi>Ergo,</hi> the Bap<g ref="char:EOLhyphen"/>tiſm and miniſtration of <hi>John</hi> is in force ſtill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>16</label> The <hi>Minor</hi> only requires help, and thus we afford it.<note place="margin">Major.</note>
+            </p>
+            <p>If the Baptiſm and miniſtration of <hi>John</hi> be ended, then it ended at him<g ref="char:EOLhyphen"/>ſelf.</p>
+            <pb n="13" facs="tcp:172537:8"/>
+            <p>But it ended not in himſelf, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> the Baptiſm and miniſtration of <hi>John</hi> is not ended.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>17</label> The <hi>Major</hi> we have no doubt of, the <hi>Minor</hi> will bare up it ſelf with a little help.</p>
+            <p>If <hi>Johns</hi> Baptiſm and Miniſtry end<g ref="char:EOLhyphen"/>ed at himſelf,<note place="margin">Major.</note> then it did ſo by Gods appointment, but it ended not at him<g ref="char:EOLhyphen"/>ſelf by Gods appointment, <hi>Ergo,</hi> the Baptiſm and Miniſtry of <hi>John</hi> ended not at himſelf. The <hi>minor</hi> proved thus.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>18</label> If Jeſus with his Diſciples did ob<g ref="char:EOLhyphen"/>ſerve and practiſe it after they receiv<g ref="char:EOLhyphen"/>ed it from <hi>John,</hi>
+               <note place="margin">Major.</note> then it did not end in him by Gods appointment.<note place="margin">Minor.</note>
+            </p>
+            <p>But Jeſus with his Diſciples did obſerve and practiſe it after they re<g ref="char:EOLhyphen"/>ceived it from <hi>John, Ergo,</hi> it did not end in him by Gods appointment.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>19</label> The <hi>Major</hi> is as clear as the Sun at Noon-day, for if it had ended in <hi>John</hi> by Gods appointment, then the keeping of it up ſtill had been croſs to it, and conſequently a Sin which
+<pb n="14" facs="tcp:172537:9"/> our Savior would not have comitted. the <hi>minor</hi> we <hi>clear</hi> up after this <hi>manner</hi>
+            </p>
+            <p>
+               <note place="margin">Major.</note>If Jeſus with his Diſciples did not practiſe <hi>Johns</hi> baptiſm after they re<g ref="char:EOLhyphen"/>ceived it from him. Then they did practiſe another Baptiſm after the ſame manner.</p>
+            <p>
+               <note place="margin">Minor.</note>But they did not practiſe another Baptiſm after the ſame manner, <hi>ergo,</hi> they practis'd the ſame that <hi>John</hi> did.</p>
+            <p>There is two Reaſons to be given for this. <hi>Firſt,</hi> becauſe the Baptiſm aſcribed to Jeſus and his Diſciples is coupled with <hi>Johns,</hi> without any ſigns or circumſtances of a <hi>contradiſtinction. Secondly,</hi> becauſe the extraordinary baptiſm with the Holy Ghoſt, by the power of Jeſus, was not then come forth. And there was none other but theſe two owned, and adminiſtred by Jeſus and his Diſciples.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>20</label> If Jeſus with his Diſciples did practiſe another Baptiſm diſtinct from <hi>Johns,</hi>
+               <note place="margin">Major.</note> after the ſame manner, (which is denyed in the <hi>minor</hi> of the laſt Ar<g ref="char:EOLhyphen"/>gument)
+<pb n="15" facs="tcp:172537:9"/> then it was the duty of the Subjects of the firſt to be baptized o<g ref="char:EOLhyphen"/>ver again by the Second.</p>
+            <p>But it was not the duty of the Sub<g ref="char:EOLhyphen"/>jects of the firſt baptiſm, to be bapti<g ref="char:EOLhyphen"/>zed over again by the ſecond, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>21</label> If it was the duty of the Subjects of the firſt baptiſm,<note place="margin">Major.</note> to be baptized o<g ref="char:EOLhyphen"/>ver again w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h another baptiſm after the ſame manner: Then it was the duty of Chriſt and his Diſciples to ſubmit to it.</p>
+            <p>But it was not their duty to be baptized over again after the ſame manner, <hi>Ergo.</hi>
+               <note place="margin">Minor.</note>
+            </p>
+            <p>The reaſon of the <hi>major</hi> is, <hi>Firſt,</hi> becauſe it was a point of righteouſ<g ref="char:EOLhyphen"/>neſs which it became them to fulfil, as well in the ſecond as in the firſt. <hi>Secondly,</hi> becauſe their practice in common duties and points of Righ<g ref="char:EOLhyphen"/>teouſneſs, was to be Exemplary; the <hi>minor</hi> propoſition, which ſaith, 'twas not their duty to do ſo, is Illuſtrated by this Argument.</p>
+            <pb n="16" facs="tcp:172537:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>22</label> If it was their duty, then they did perform it.</p>
+            <p>
+               <note place="margin">Major.</note>But they did not perform it, <hi>Ergo,</hi> 'twas not their duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>23</label> If they did perform any ſuch thing, then ſome unqueſtionable evidence may be produc'd to prove it.<note place="margin">Major.</note>
+            </p>
+            <p>
+               <note place="margin">Minor.</note>But no unqueſtionable evidence can be produc'd to prove <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Chriſt and his Diſciples were twice baptiſed with a common and ordinary bap<g ref="char:EOLhyphen"/>tiſm. <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>24</label> If that part of the Goſpel that re<g ref="char:EOLhyphen"/>lates to the miniſtration of <hi>John,</hi>
+               <note place="margin">Major.</note> be Abrogated, then is the Doctrine of Repentance, Baptiſm, the confeſſion of Sin, and owning the <hi>Meſsiah,</hi> ceaſ<g ref="char:EOLhyphen"/>ed and made Null.</p>
+            <p>
+               <note place="margin">Minor.</note>But theſe are not ceaſed and made Null, <hi>Ergo,</hi> that part of the Goſpel relating to the miniſtration of <hi>John</hi> is not Abrogated. The <hi>major</hi> pro<g ref="char:EOLhyphen"/>poſition is clear, for in that enume<g ref="char:EOLhyphen"/>ration did the Miniſtry of <hi>John</hi> chief<g ref="char:EOLhyphen"/>ly conſiſt, and if it was made Null,
+<pb n="17" facs="tcp:172537:10"/> the duties thereof muſt ceaſe, and if they were afterwards ſet up again, there muſt then be a fault committed either in making Null that which was uſeful and good, or elſe in bringing in again an Abrogated and exploded thing, according to St. <hi>Pauls</hi> rule, <hi>If I build again the abrogated and ex<g ref="char:EOLhyphen"/>ploded things I once deſtroyed, I make my ſelf a Tranſgreſsor.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>25</label> To prove the <hi>minor,</hi> that the Do<g ref="char:EOLhyphen"/>ctrine of Repentance, Baptiſm, Con<g ref="char:EOLhyphen"/>feſſion of Sin, and owning the <hi>Meſsiah</hi> is not ceaſed and made Null. Take as followeth.</p>
+            <p>If thoſe duties contained in the mi<g ref="char:EOLhyphen"/>niſtration of <hi>John</hi> were abrogated and made Null:<note place="margin">Major.</note> Then it was done by ſome publick and Miniſterial Edict, proceeding from an Authority either greater or equivalent to <hi>Johns.</hi>
+            </p>
+            <p>But it was not abrogated and made Null by any ſuch edict and Authority,<note place="margin">Minor.</note> 
+               <hi>Ergo,</hi> ir was not done.</p>
+            <p>The <hi>Major</hi> I think is unqueſtion<g ref="char:EOLhyphen"/>able,
+<pb n="18" facs="tcp:172537:11"/> for it was neceſſary that the Mi<g ref="char:EOLhyphen"/>niſtery of one ſo plainly and fignally appearing to be by divine Authority, as not only proved by Scripture, but confirm'd of God by a voice from Heaven: ſhould at leaſt have an Au<g ref="char:EOLhyphen"/>thority Equivolent to it to make it Null.</p>
+            <p>The <hi>Minor</hi> it thus made good.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>26</label> If it was done by any ſuch Edict and Authority,<note place="margin">Major.</note> it muſt then be done by Chriſt and his Apoſtles.</p>
+            <p>
+               <note place="margin">Minor.</note>But it was not done by Chriſt or his Apoſtles, <hi>Ergo,</hi> it was not made Null at all, the reaſon of the <hi>Major</hi> is becauſe none but theſe had ſo much as an Authority Equivolent to <hi>Johns,</hi> the reaſon of the <hi>Minor,</hi> that it was not done by Chriſt or his Apo<g ref="char:EOLhyphen"/>ſtles is, becauſe it was own'd, approv<g ref="char:EOLhyphen"/>ed and Taught by them in all the parts of it afterwards as is evident from theſe Scriptures, <hi>Mat.</hi> 4.17. <hi>Joh.</hi> 3.26. <hi>Acts.</hi> 2.38. From whence we draw this Argument.</p>
+            <pb n="19" facs="tcp:172537:11"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>27</label> If Chriſt and his Apoſtles own'd, approv'd &amp; taught the ſame things in all the parts thereof that was contain'd in <hi>Johns</hi> Miniſtrey,<note place="margin">Major.</note> Then for certain they did not by any Publique and Miniſterial edict make it void.</p>
+            <p>But they did own, approve,<note place="margin">Minor.</note> and teach the ſame in all the parts there<g ref="char:EOLhyphen"/>of, <hi>Ergo,</hi> It was not by them made Null. The <hi>Minor</hi> is proved by the foreſaid texts, and further confirm'd by theſe following Arguments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>28</label> If Chriſt or his diſciples did by any publique and Miniſterial Edict make the Miniſtery of <hi>John</hi> Null.<note place="margin">Major.</note> Then it is ſet forth in ſome part of the Divine Records. But there is no part of the Divine Records do manifeſt any ſuch thing, <hi>Ergo,</hi> it was not done.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>29</label> The next Argument levied for confirmation of Water Baptiſm, is from the Reaſon of the thing: that there is the ſame Reaſon for the Bap<g ref="char:EOLhyphen"/>tiſm and Miniſtry of <hi>John</hi> to be in
+<pb n="20" facs="tcp:172537:12"/> force now as was then (even when <hi>John</hi> himſelf did Preach it) Now, though this will not hold in all caſes, namely, that if the reaſon of a thing remains, then the thing it ſelf muſt, where the things were before abro<g ref="char:EOLhyphen"/>gated, yet in this caſe it will hold, where there hath been no ſuch abro<g ref="char:EOLhyphen"/>gation, and therefore from theſe pre<g ref="char:EOLhyphen"/>miſes we frame this Argument.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>30</label> If the Reaſon of an unabrogated piece of Service remains ſtill,<note place="margin">Major.</note> then the Service it ſelf remains ſtill.</p>
+            <p>
+               <note place="margin">Minor.</note>But the Reaſon of the Service con<g ref="char:EOLhyphen"/>tain'd in <hi>Johns</hi> Miniſtry remans ſtill, <hi>Ergo,</hi> the Service doth ſo likewiſe: The <hi>Major</hi> we hope will face its Ad<g ref="char:EOLhyphen"/>verſaries, and keep its ground. The <hi>Minor</hi> we expect to be aſſaulted, which will find help at hand from theſe conſiderations.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>1</label> The Precepts of <hi>Johns</hi> Miniſtry ſtands ſtill upon Record, equally un<g ref="char:EOLhyphen"/>abrogated with the other parts of the Goſpel.</p>
+            <pb n="21" facs="tcp:172537:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>2</label> There is the ſame unbelieving world and neceſſity of confeſſion of Sin, Repentance, and owning the <hi>Meſsiah</hi> upon his appearing in the Miniſtration of the Goſpel, as there was when he appeared in perſon; this I doubt not but that it will be readily granted; why is there not then the ſame Reaſon there ſhould be the like publick ſubſcription to, and owning of Chriſt before witneſs now, as was then, how elſe ſhould we keep the Traditions as they were delivered to us by the firſt Miniſters of the Goſpel, without detraction or diſorder; and if there is not a pub<g ref="char:EOLhyphen"/>lick ſubſcription to Chriſt before witneſs, how ſhall the Diſciples of Chriſt be known; and if they are not known, how ſhall a witneſs be made for him, or his Name be born up in the World? and if a wit<g ref="char:EOLhyphen"/>neſs for him to bare up his Name in the World, (as a baptizing in the Name of the Lord Jeſus doth
+<pb n="22" facs="tcp:172537:13"/> plainly import) why then ſhould it not be after the ſame manner that the Example of Chriſt, and footſteps of his flock doth lead to? and if any ſhall ſay, becauſe it is unſafe in theſe cold and Northern climates, the Anſwer is ready.</p>
+            <p>
+               <hi>Firſt,</hi> many thouſands have done it here in theſe Climates, and done it in a cold Seaſon with ſafety.</p>
+            <p>
+               <hi>Secondly,</hi> If it hath been the Lords pleaſure to injoyn a ſtooping, and a little hardſhip and ſelf denyal to be paſt through in the very entrance up<g ref="char:EOLhyphen"/>on a profeſſion of him, it is not ſafe to ſay there is a Lyon in the way to excuſe from it; and it is far leſs trou<g ref="char:EOLhyphen"/>ble to the Fleſh then was Circumci<g ref="char:EOLhyphen"/>ſion, which was injoyn'd upon a ſe<g ref="char:EOLhyphen"/>vere Penalty, and that it ought to be in the ſame manner preſcribed by the firſt Miniſters of the Goſpel.<note place="margin">Major.</note> Take this Argument to prove it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>31</label> If men may preſume to ſubſtract, alter, and vary from the rule in the
+<pb n="23" facs="tcp:172537:13"/> ſervice of Chriſt in one thing.</p>
+            <p>Then they may preſume to do ſo in another, and a third, and ſo through the whole diſcipline of the Goſpel, into diſorder and confuſion.</p>
+            <p>But men may not preſume to do any ſuch thing, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> it ought to be done according to the firſt frame and pattern of things, as they are left us upon Divine Record.</p>
+            <p>For if this be not admitted, why may we not in celebrating the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper, uſe Fleſh and Sauce inſtead of Bread, and Beer or Water inſtead of Wine; and when we are minded to ſhew our re<g ref="char:EOLhyphen"/>joycing in, or to mourn and humble our ſelves before the Lord; to uſe a Fiddle inſtead of a Hymn, and the mournful ſound of a Trumpet in<g ref="char:EOLhyphen"/>ſtead of Prayers and T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; or why may not a kiſſing of the Cup do in<g ref="char:EOLhyphen"/>ſtead of drinking of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Wine? and cruming the Bread into a Meſs of Pottage ſtand for a breaking of it, and
+<pb n="24" facs="tcp:172537:14"/> they that do ſo, ſay we have celebra<g ref="char:EOLhyphen"/>ted the Lords Supper, and ſo bring the ſerious and grave worſhip of a dear and dying Saviour into a ſilly Paſtime in ſome reſpects, and into a Hodg-Podg, or Slibber-ſlobber in o<g ref="char:EOLhyphen"/>ther reſpects, and by this means lay a fair foundation for a total ſlighting and enervating of Chriſt's ſervice on one hand, or for a jumble or mixture of Mahomet and the Pope on the o<g ref="char:EOLhyphen"/>ther hand, but that ſuch things ought not to be done, we prove in purſuit of our <hi>minor</hi> propoſition by theſe following Arguments.</p>
+            <p>
+               <note place="margin">32. <hi>Maj.</hi>
+               </note>If men ought not to preſume to alter any thing of the firſt frame and pattern of things under the Law with<g ref="char:EOLhyphen"/>out ſpecial Tolleration, then they ought not to preſume to do ſo under the Goſpel.</p>
+            <p>But men ought not to preſume to do ſo under the Law, <hi>Ergo,</hi> the <hi>minor</hi>
+               <note place="margin">Minor.</note> is proved by the Sacred Text, <hi>See thou make all things according to the
+<pb n="25" facs="tcp:172537:14"/> pattern ſhewed thee,</hi> Ex. 25.40. Heb. 8.5. The change or alteration of ſmall Ceremonies was accounted a Sin and puniſhed, as carrying the Ark in a manner differing from apoint<g ref="char:EOLhyphen"/>ment, and a variation in a point of worſhip reputed to be the offering up of ſtrange fire, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>1</label> The <hi>Major</hi> is clear by theſe con<g ref="char:EOLhyphen"/>ſiderations ariſing from this general head, <hi>viz.</hi> That there is the ſame reaſon for the Eſtabliſhment and con<g ref="char:EOLhyphen"/>trivance of the Ways and Methods of the Goſpel, as there was for that of the Law; as firſt, the Goſpel had the ſame Authority of Heaven ſtampt upon it as the Law had; 'tis ſaid in reference to the moſt deſpiſed part of it, that God ſent <hi>John</hi> to Baptiſe, <hi>Luk.</hi> 3.2. <hi>Joh.</hi> 1.6. <hi>v.</hi> 33.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>2</label> That the Miniſters by which it was ſent forth and publiſht, were as great as any Miniſters of the Law, for 'tis ſaid of <hi>John Baptiſt</hi> that he was great<g ref="char:EOLhyphen"/>er than a Prophet, and amongſt them
+<pb n="26" facs="tcp:172537:15"/> that were Born of Women, there had not aroſe a greater, who was the be<g ref="char:EOLhyphen"/>ginner of the Goſpel, from whom it w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s afterwards confi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m'd, and carry<g ref="char:EOLhyphen"/>ed on by Chriſt himſelf, that great Miniſter of the Sanctuary, who in pitching of the Tabernacle, and ſet<g ref="char:EOLhyphen"/>ling the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thods of the Goſpel, acted not of himſelf, but from the Father, and in p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int of Dignity and Prehe<g ref="char:EOLhyphen"/>minency, was beyond both <hi>Moſes</hi> and <hi>John.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>3</label> That there was but two Duties Inſtituted beſides what was compri<g ref="char:EOLhyphen"/>zed in the great <hi>Magnacharta,</hi> the Laws of Natural Religion; we mean the Sacraments of Baptiſm and the Supper of the Lord, and therefore no need to leſſen or diminiſh them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>4</label> That theſe are neither difficult nor chargable, ſo as that there ſhould on that account be a change or altera<g ref="char:EOLhyphen"/>tion of them, for Baptiſm is much eaſier than Circumciſion, and the Celebration of the Supper much
+<pb n="27" facs="tcp:172537:15"/> cheaper than the offering of Bulls and Goats, Oxen, Sheep, Heifers, and the like.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>5</label> They have as bleſſed a Tendency as any Precepts and Ceremonies of the Law had, to direct men to the Confeſſion of Sin, to an owning of the bleſſed Jeſus, before witneſs, to the ſerious thoughts of Death, and going down into the Grave, and to a Reſurrection by the power of that Jeſus whom they do profeſs, all which is contained in Baptiſme, if rightly underſtood; as alſo to a Remembrance of his great Love he bare to them, evidenc'd by the ſhameful and miſerable Death he dy<g ref="char:EOLhyphen"/>ed for them, to which uſeful work and neceſſary Duty, appertains Sal<g ref="char:EOLhyphen"/>vation, according to the ſaying of the Apoſtle, 1 <hi>Cor.</hi> 15. <hi>By which ye are ſaved, if ye keep in memory what I Preacht unto you;</hi> which was, That Chriſt died for our Sins, according to the Scriptures, and which is live<g ref="char:EOLhyphen"/>ly
+<pb n="28" facs="tcp:172537:16"/> ſet forth in the Celebration of the Supper; <hi>For as oft as you do this, you ſhew forth the Lords Death till he comes.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>6</label> There is the ſame danger depend<g ref="char:EOLhyphen"/>ing upon the Removing or alteration of the Ceremonies of the Goſpel, as was of the Law, for there being an aptneſs and propenſity in mens minds to buſie themſelves about ſomething relating to Worſhip; if the right and true Methods be removed or chang'd there is then no great difficulty for to inovate and introduce wrong ones in ſtead of Right: The Inventions of men inſtead of the Inſtitutions of God and his Son: nay, it may be the Ceremonies of <hi>Bell</hi> and the <hi>Dragon,</hi> of <hi>Baal</hi> and <hi>Belſhazzer,</hi> when once the remembrance of Right things are nigh worn out in the world, and then farewel to the true Service of the Goſpel.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>7</label> Laſtly, there is the ſame damage doubtleſs depending in reference to
+<pb n="29" facs="tcp:172537:16"/> thoſe that ſhall change or diminiſh the Duties of the Goſpel, as there is in reference to thoſe that ſhould do ſo by the Law; and that our Saviour tells us, (in caſe they be ſaved) <hi>They ſhall be called the leaſt in the Kingdom of Heaven;</hi> from all which conſide<g ref="char:EOLhyphen"/>rations we frame this general Argu<g ref="char:EOLhyphen"/>ment for the confirmation of the <hi>ma<g ref="char:EOLhyphen"/>jor</hi> Propoſition.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>33</label> That which had the Authority of Heaven ſtampt upon it, the greateſt and higheſt ſort of Gods Miniſters to ſet it forth, that is eaſie to be per<g ref="char:EOLhyphen"/>form'd, and may be done with little trouble and charge, that hath a bleſ<g ref="char:EOLhyphen"/>ſed tendency, and where is a double danger depending upon a total neg<g ref="char:EOLhyphen"/>lect or alteration, men ought not to remove of alter. But it tis ſo of the duties of the Goſpel, <hi>Ergo.</hi>
+            </p>
+            <p>More might be ſaid upon this Ar<g ref="char:EOLhyphen"/>gument if two things did not forbid, <hi>(viz.)</hi> want of Time, and fearing to make the Book too Big, we ſhall
+<pb n="30" facs="tcp:172537:17"/> therefore Anſwer two objections and paſs on.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>1</label> 
+               <hi>John</hi> ſaid, he was to <hi>Decreaſe,</hi> and Chriſt to <hi>Increaſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>2</label> Our Saviour gave orders for a new Baptiſm in his great and laſt Com<g ref="char:EOLhyphen"/>miſſion to his Diſciples, <hi>Mat.</hi> 28. <hi>Mark.</hi> 16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The firſt of theſe is ſcarce worthy of the name of an objection, there is ſo little in it, for (1) if Baptiſme with water was once a duty as hath been already proved, being evidenc'd (1) by Gods ſending <hi>John</hi> to Bap<g ref="char:EOLhyphen"/>tize, (2) by Chriſts ſubmiting to it, (3) by mens being highly charged with ſin that did reject it, (4) by Chriſt and his diſciples after owning and practiſeing of it, (5) it's being a branch or duty of the Goſpel, (6) it's being joyn'd with other laſting and Perpetual dutys, as Repentance, Confeſſion of ſin, and owning the <hi>Meſiah,</hi> (7) from the reaſon of the thing: I ſay if it was
+<pb n="31" facs="tcp:172537:17"/> once a duty upon theſe grounds, and from theſe concuring circumſtances, then they muſt needs run a very great hazard that ſhall reject and violate it upon ſo ſlight and uncertain a ground as one particular text that doth not d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clare it void, but is at moſt but in<g ref="char:EOLhyphen"/>terpretative, and admits of another in<g ref="char:EOLhyphen"/>terpretation quite contrary to the op<g ref="char:EOLhyphen"/>poſite opinion, and that with a great deal of more reaſon and probabillity; For by <hi>Johns</hi> decreaſing cannot be meant his Miniſtry, unleſs we ſhall ſuppoſe that Confeſſion of Sinne, Repentance, and owning the <hi>Meſiah,</hi> as well as Baptiſm, was to decreaſe, then which there can be nothing more abſurd; (to conclude) we think and ſay further then, with much more probabillity, that not <hi>Johns</hi> Miniſtry, but the great fame and Maſter-ſhip of <hi>John</hi> was to decreaſe as to the hav<g ref="char:EOLhyphen"/>ing diſciples call'd by his name (the diſciples of <hi>John</hi>) and the like, for after Chriſts publique enterance up<g ref="char:EOLhyphen"/>on
+<pb n="32" facs="tcp:172537:18"/> his Miniſtry; as <hi>John</hi> did point and direct men to Chriſt as their chiefe leader; ſo they were after<g ref="char:EOLhyphen"/>wards taught by Chriſt to call no man Maſter, but ſoly to own him, and be called the diſciples of Jeſus (not of <hi>John,</hi>) And for this there is good reaſon to be given, but for the other, if there was no more reaſon then that it is uncertain, it were ſufficient; but we further ſay; (to conclude <hi>Johns</hi> miniſtry, was to decreaſe and be made Null upon the appearance of Chriſt, as there is no reaſon to be plainly ſhewed from this Text, and as it is very unſafe to violate and reject a ſacred duty upon ſo uncertain a ground as a private interpretation of a parti<g ref="char:EOLhyphen"/>cular text) that the Interpretation is for me and a ſtranger, and therefore deſervedly to be caſt out, and have no inheritance for the diſpoſſeſſing of <hi>Johns</hi> Miniſtry, which we diſmiſs with this Argument.</p>
+            <pb n="33" facs="tcp:172537:18"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>34</label> Thoſe Duties that have been rati<g ref="char:EOLhyphen"/>fied and confirmed by many ſignal and weighty circumſtances, ought not to be violated or rejected upon ſo ſlender a ground as the meer In<g ref="char:EOLhyphen"/>terpretation of a particular Text. But the Baptiſm and Miniſtry of <hi>John</hi> hath been ſo Ratified and confirmed, <hi>Ergo,</hi> the Baptiſm and Miniſtry of <hi>John</hi> ought not after ſo ſlight and careleſs a manner to be rejected and made void.</p>
+            <p>And as to the Commiſſion of Chriſt, <hi>Mat.</hi> 28. we Anſwer.</p>
+            <p>If any ſhall ſuppoſe that thereby the Baptiſm and Miniſtry of <hi>John</hi> was made void. (1) That it doth not plainly appear from thence, but is at moſt but Interpretatively ſo there<g ref="char:EOLhyphen"/>fore unſafe to rely upon in the ruin of a plain part or Precept of the Goſpel. (2) That the Commiſſion aforeſaid did not make void the Bap<g ref="char:EOLhyphen"/>tiſm and Miniſtry of <hi>John,</hi> for theſe Reaſons,</p>
+            <p n="1">
+               <pb n="34" facs="tcp:172537:19"/>1. It's not congruous to ſuppoſe that Chriſt ſhould inſtitute, and ſet up one part of the Goſpel to Ener<g ref="char:EOLhyphen"/>vate and make void another part of it, which <hi>Johns</hi> Baptiſm and Mini<g ref="char:EOLhyphen"/>ſtry hath been proved to be.</p>
+            <p n="2">2. It doth not infallibly appear that the Baptiſm given in the Com<g ref="char:EOLhyphen"/>miſſion of Chriſt, was different from that of <hi>Johns</hi> as to matter, form, and ſubject, which are the main parts of Baptiſm; and if there was ſome ſmall difference in point of circumſtance, it will not be ſufficient to prepondrate and out-weigh a plain and clear duty; and there can no plain difference be made to appear betwixt the Baptiſm of <hi>John,</hi> and that given in our Savi<g ref="char:EOLhyphen"/>ours Commiſſion, unleſs it be in the uſe of words, <hi>viz.</hi> In the Name of the Father, Son, and Holy Ghoſt, and this amounts to theſe three things.</p>
+            <p n="1">1. The ſetting forth the Exiſtency of the Trinity, that Three ſuch were.</p>
+            <p n="2">
+               <pb n="35" facs="tcp:172537:19"/>2. The capacity and dignity of the Trinity, they were to Baptize in their Names, which was a Witneſs or Teſtimony on the Miniſters part, and a ſubſcription on the Submitters part, to the preheminence of this holy Trinity, in oppoſition to the Inſtruction of any other, either as a Third Perſon to ſeclude any one of theſe, or as a fourth to be equal with them in their United Dignity.</p>
+            <p n="3">3. The work and opperation they joyntly intended to be concern'd in; and more than this is no ſubject of Baptiſm bound to believe and ac<g ref="char:EOLhyphen"/>knowledge in or upon their Baptiſm: that is to ſay, The Being of Father, Son, and Holy Ghoſt: The Dignity of Father, Son, and Holy Ghoſt; the work and opperation of Father, Son, and Holy Ghoſt, in carrying on the great deſign of the Goſpel; and if theſe words were not uſed by <hi>John</hi> in the Act of Baptizing, yet the thing was ſet forth in his Miniſtry, and at
+<pb n="36" facs="tcp:172537:20"/> the ſame time, while the Miniſter and Submitter were together; and there<g ref="char:EOLhyphen"/>fore we do affirm that <hi>John</hi> did in his Baptiſm and Miniſtry direct into the ſame Faith as the Apoſtles by their Commiſſion were to Teach and Bap<g ref="char:EOLhyphen"/>tiſe into, <hi>(viz.)</hi> the Being, Dignity, and opperation of the Trinity: And no man can be certain that our Savi<g ref="char:EOLhyphen"/>our did injoyne more in his great Commiſſion, or that the Apoſtles did make uſe of that very form of words in the Act of Baptiſing: The con<g ref="char:EOLhyphen"/>cluſion then is, that for any thing that yet appears, the Baptiſm contained in the Commiſſion was, and was to be the ſame in all points with the Baptiſm of <hi>John;</hi> and therefore from thence appears no certain ground of an Abrogation. Indeed our Saviour did do three things in reference to <hi>Johns</hi> Baptiſm by his great Commiſ<g ref="char:EOLhyphen"/>ſion; (1) he confirm'd it by com<g ref="char:EOLhyphen"/>manding his Diſciples to keep it up, and carry it on; (2) he adds per<g ref="char:EOLhyphen"/>fection
+<pb n="37" facs="tcp:172537:20"/> and clearneſs to it by his great Authority, his ſhort and plain In<g ref="char:EOLhyphen"/>ſtruction about the deſign of it, which was to bring his followers to ſubſcribe to the Doctrine of the Tri<g ref="char:EOLhyphen"/>nity in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir ſubmiſſion to it. (3) he did further extend it, by ordering of it into all the world, which <hi>John</hi> did not do; our Reſult is, that neither the words of <hi>John, I muſt decreaſe,</hi> nor the Commiſſion of our Saviour to his Diſciples to Baptize, doth fair<g ref="char:EOLhyphen"/>ly make Null the Baptiſm and Mini<g ref="char:EOLhyphen"/>ſtry of <hi>John:</hi> from whence we offer this Argument.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>35</label> That which is fairly and infallibly proved once to be Gods Ordinance, and Mans duty, ought not without a fair and infallible ground to be ac<g ref="char:EOLhyphen"/>counted Null and void.</p>
+            <p>But the Baptiſm and Miniſtration of <hi>John</hi> is fairly and infallibly proved to be Gods Ordinance, and mans duty, <hi>Ergo,</hi> it ought not without the like ground to be accounted Null and
+<pb n="38" facs="tcp:172537:21"/> void; and if any ſhall ſtill oppoſe what hath been contended for, I ſhall only ſtate this queſtion to be debated with them, and end this firſt point by two ſhort Arguments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> Whether the Baptiſm command<g ref="char:EOLhyphen"/>ed by God, Adminiſtred by <hi>John,</hi> ſubmitted to by Jeſus, and after his Death owned and practiſed by his extraordinary Miniſters, be put an end to or made Null.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>36</label> If the Baptiſm and Miniſtry of <hi>John</hi> was by the Holy Ghoſt reputed and owned to be the way of the Lord, after the Aſcention of our Sa<g ref="char:EOLhyphen"/>viour, then 'tis in force ſtill: but it was ſo, <hi>Ergo,</hi> Acts 18.25, 26.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>37</label> If Baptiſm with Water be not in force ſtill, as well as other parts of <hi>Johns</hi> miniſtry, then it is ſomewhere exempted. But Baptiſm with Wa<g ref="char:EOLhyphen"/>ter is no where Exempted, <hi>Ergo.</hi>
+            </p>
+            <p>And now let us ſee if we can find an Adminiſtrator. In this Enquiry after a Miniſter, we will propoſe Three things.</p>
+            <p n="1">
+               <pb n="39" facs="tcp:172537:21"/>1. To ſtate what a Miniſter is in his make and conſtitution.</p>
+            <p n="2">2. What doth warrant him to Act or Perform the Work and Office of a Miniſter.</p>
+            <p n="3">3. And then put it upon this fair Iſſue, <hi>viz.</hi> whether there be any un<g ref="char:EOLhyphen"/>der ſuch circumſtances in this Age, that Renders the Perſons fit, and the Miniſtry warrantable.</p>
+            <p>Of theſe three Propoſitions in their Order: To the firſt of theſe,</p>
+            <p n="1">1. We affirm that there is but two things neceſſary to the make or conſtitution of a Miniſter. (1) Abi<g ref="char:EOLhyphen"/>lity or Qualification to fit for it. (2) Authority or Commiſſion from God to impower to the performance of it: The ability or qualification con<g ref="char:EOLhyphen"/>ſiſts in two things; 1. underſtanding to know. 2. utterance to divulge of report thoſe things that may anſwer the ends of a Miniſtry, in which re<g ref="char:EOLhyphen"/>ſpect there is theſe two things requi<g ref="char:EOLhyphen"/>ſite, 1. To be able to underſtand the divine Authority and truth of the holy
+<pb n="40" facs="tcp:172537:22"/> Scriptures, (2) to underſtand and report the ſence and mind of God contained in them, in all the weighty and neceſſary points of Religion; the reaſon of this is, becauſe it's a receiv<g ref="char:EOLhyphen"/>ed truth that the holy Scriptures are able to make wiſe unto ſalvation, and therefore muſt contain all things eſ<g ref="char:EOLhyphen"/>ſential thereunto, and ability to Mi<g ref="char:EOLhyphen"/>niſter two things, will anſwer the end of a Miniſtry: and the truth is, theſe two things are the very baſis of all Chriſtianity in the world, and the de<g ref="char:EOLhyphen"/>nying or Removing of them is no leſs then the ſhaking of the very founda<g ref="char:EOLhyphen"/>tion and ground work of Chriſtianity all over the earth; for take away the Divine Authority, and truth of the Scriptures, or the ſence and mind of God in all neceſſary points contained in them, and then reſolve us by what means we ſhall become Chriſtians; the like diſmal conſequence follows upon the denyal of the qualification, for if none be able to underſtand and
+<pb n="41" facs="tcp:172537:22"/> prove the divine Authority and truth of the Scripture, then is all truth loſt at once; for who can tell whether it be the <hi>Alcaron,</hi> the Bible, the <hi>Leviathan,</hi> or ſome thing elſe. And if none be able to underſtand the ſence and mind of God, contained in the Scriptures, in all weighty and neceſſary points, al<g ref="char:EOLhyphen"/>though the Scriptures be the truth, yet we are never the nearer, becauſe they are Scaled up ſo as none can un<g ref="char:EOLhyphen"/>derſtand them and teach them; And then it Roundly follows, that none can hear them, and believe them ac<g ref="char:EOLhyphen"/>cording to St. <hi>Pauls</hi> maxim, how ſhall they hear and believe without a Preacher, and if none can hear and be<g ref="char:EOLhyphen"/>lieve them, where then is Chriſtiani<g ref="char:EOLhyphen"/>ty? it is all loſt; and it muſt needs be a folly in men to make a do about Godlineſs and Chriſtianity, when there is none able to make out any ſuch thing; now upon admiting this Hypotheſis to be true, <hi>(viz.)</hi> that Ability or Qualification is every
+<pb n="42" facs="tcp:172537:23"/> where wanting in this Age, let us lay the conſequents that follows there<g ref="char:EOLhyphen"/>upon altogether, and ſee how fright<g ref="char:EOLhyphen"/>fully they look upon us.</p>
+            <p n="1">1. The truth and Divine Autho<g ref="char:EOLhyphen"/>tity of Scripture cannot be aſſerted and proved.</p>
+            <p n="2">2. The ſence and mind of God contained in them cannot be known.</p>
+            <p n="3">3. Then the world is left without a ſufficiency to defend truth againſt errour, and Satans party is the ſtrong<g ref="char:EOLhyphen"/>eſt ſide, for they have ſufficient amu<g ref="char:EOLhyphen"/>nition to charge their minds withall againſt Chriſtianity, Goodneſs, and Vertue, but the Children of vertue have not any thing but the bare dictats of nature to help themſelves.</p>
+            <p n="4">4. Chriſtianity is a falſe and groundleſs denomination, for there is none able to prove the Reality and good ground of any ſuch thing.</p>
+            <p n="5">5. There is no firm and ſtanding rules of Religion more than the vari<g ref="char:EOLhyphen"/>able wits and tempers of men admits of.</p>
+            <p n="6">
+               <pb n="43" facs="tcp:172537:23"/>6. No light nor ſalt for the world, but what reſults from the heart and invention of man.</p>
+            <p n="7">7. No witneſs for God but what man ſhall ſee good with his own eyes, without the help of an infallible per<g ref="char:EOLhyphen"/>ſpective Glaſs, and none at all for Chriſt, for his name muſt be ſhut out of the world, becauſe the dictates of nature doth not Preach him.</p>
+            <p n="8">8. No ground to ſuffer for the Religion of the bleſſed Jeſus, becauſe we are not able to know whether there was ſuch a man, or ſuch a thing or no.</p>
+            <p n="9">9. No External Motives to com<g ref="char:EOLhyphen"/>fort under afflictions, becauſe no ground of an Immortality or life to come, which was only ſet forth and brought to light by that Miniſtration called the Goſpel, which no man is able to underſtand and believe.</p>
+            <p n="10">10. No ſuch thing as true Faith or Church, for theſe are Fictions and fanciful dreams, that there is no
+<pb n="44" facs="tcp:172537:24"/> ground for their being knowable, not ſo much as their very names.</p>
+            <p n="11">11. No ground to look for, or expect Salvation hereafter, becauſe no promiſe of it underſtood by any in this Age, nor is it Infallibly de<g ref="char:EOLhyphen"/>terminable whether that poor mean people that dare not ſwagger in Riotouſneſs and Sin, or thoſe jolly and jumping Boys that can do any thing that they are prompted to, or capable of, ſhall partake of it.</p>
+            <p n="12">12. No dutiful care by vertue of any viſible or known Precept over one anothers Souls, and what then, and whither then? whether to die like Beaſts, and be no more, or to go to Heaven or to Hell is not determina<g ref="char:EOLhyphen"/>ble, becauſe nothing ſpeaks to the Reſolution of this Queſtion, touching a Life to come and place of Reſidence after Death, but a certain Book cal<g ref="char:EOLhyphen"/>led the Bible, which the Opinion op<g ref="char:EOLhyphen"/>poſed ſaith, cannot be underſtood and taught but from ſuch Premiſes
+<pb n="45" facs="tcp:172537:24"/> and Concluſions, Good Lord deli<g ref="char:EOLhyphen"/>ver every ſincere Soul. <hi>Amen.</hi>
+            </p>
+            <p>And the like Abſurdities are ready to break in upon us like a Flood, if that Principle be admitted: That though men are able to Teach and Inſtruct, yet there is no ground and warrant for them ſo to do.</p>
+            <p>For firſt, then may all men lay it down, becauſe it is a groundleſs and vain thing, and the Devil and his Party may ſay to the moſt Pious, Painful, and ableſt Teachers of Chri<g ref="char:EOLhyphen"/>ſtianity and Vertue, who hath requi<g ref="char:EOLhyphen"/>red this at your hands.</p>
+            <p n="2">2. It renders all gifts, both of un<g ref="char:EOLhyphen"/>derſtanding and utterance in the mat<g ref="char:EOLhyphen"/>ters of Religion and Chriſtianity uſeleſs, for if there be no warrant for Working, there is no Reward, and then what motive or incouragement to induce to it.</p>
+            <p n="3">3. No ground to witneſs againſt wickedneſs, to reprove or convince Men and Women for Sin, to teach
+<pb n="46" facs="tcp:172537:25"/> Children to be Religious, or to bear up the Name of Chriſt in the world.</p>
+            <p>All that ſuffered for a Miniſtry or publick Witneſs, did fooliſhly, be<g ref="char:EOLhyphen"/>cauſe they had not the gift of Ton<g ref="char:EOLhyphen"/>gues, cannot work Miracles, want an immediate Commiſſion, or an Ordi<g ref="char:EOLhyphen"/>nation by a Lineal Succeſſion, neither of which is Eſſential to the make or Inſtalment of a Miniſter, of which we would diſcourſe at large if it was convenient, and undertake to make good this propoſition, <hi>viz.</hi> that the command of God upon Divine Re<g ref="char:EOLhyphen"/>cord, with the approbation, conſent, and regular choice of the People, (meeting upon a perſon of a com<g ref="char:EOLhyphen"/>petent Ability) is ſufficient for an In<g ref="char:EOLhyphen"/>ſtallment, where the four things be<g ref="char:EOLhyphen"/>fore mentioned are wanting. Now, if theſe two grand qualifications be granted, 1. That Ability to prove the Divine Authority of the Scrip<g ref="char:EOLhyphen"/>tures, 2. To underſtand and ſet forth the ſence and mind of God contained
+<pb n="47" facs="tcp:172537:25"/> in them in all weighty and neceſſary points) and be ſufficient for the make and conſtitution of a Miniſter, then (where theſe are) may the ends of the Miniſtry be Anſwered in all theſe following particulars.</p>
+            <p n="1">1. They may be able to convince Enemies.</p>
+            <p n="2">2. To lay a good foundation for the Souls of men to build upon for life.</p>
+            <p n="3">3. To Refute grand and funda<g ref="char:EOLhyphen"/>mental Errours.</p>
+            <p n="4">4. To ſave the Souls of teachable and well diſpoſed hearers.</p>
+            <p n="5">5. To feed Gods houſhold and build up his houſe.</p>
+            <p n="6">6. To diffuſe light ſo as to leave the obſtinate without excuſe and abi<g ref="char:EOLhyphen"/>lity to do theſe things, I think all will agree to be ſufficient to anſwer the ends of the Miniſtrey, upon which Suppoſition, that where there is ſuch ability or Qualifications, there is a true Miniſter in his make and Conſti<g ref="char:EOLhyphen"/>tution;
+<pb n="48" facs="tcp:172537:26"/> we inlarge no further upon that, but deſcend to the ſecond pro<g ref="char:EOLhyphen"/>poſition, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> What doth warrant ſuch a one to Act or perform the worke and office of a Miniſter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Two things is requiſite to a Mini<g ref="char:EOLhyphen"/>ſters warrant for Adminiſtration, firſt the will of God requireing to do good according to his ability. Se<g ref="char:EOLhyphen"/>condly, The neceſſity and Regular choice of a people calling for it, who are to Judge of his ability, and their own neceſſity, and where the will of God requires the neceſſitys and regu<g ref="char:EOLhyphen"/>lar choiſe of the people, do call, let a man refuſe at his own perril; but though a mans ability do fit, the will of God revealed doth warrant, yet if the people do not approve, conſent &amp; make a regular choiſe, the perſon fit<g ref="char:EOLhyphen"/>ed is free, not having power to im<g ref="char:EOLhyphen"/>poſe, and the ſin, if any be, muſt lye at the peoples doors. And this is the very caſe now depending in ſome
+<pb n="49" facs="tcp:172537:26"/> places, Perſons of good, and in others thoughts, of very valuable a<g ref="char:EOLhyphen"/>bilitys, are blamed and charged with ſin for not improving their Talents, when all this while the ſault is in the people, who did never Regularly and ſolemnly (as the Nature of the thing required) call them forth to that Im<g ref="char:EOLhyphen"/>ployment, but becauſe this may be thought a digreſſion, we return to our Task, and undertake to prove a war<g ref="char:EOLhyphen"/>rantableneſs for an improvement of ability from theſe conſiderations.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>1</label> That the expreſs word of God left us upon divine record, doth require all perſons in all times even till Chriſt comes, and in reſpect to all things, to improve their Talents or abilitys: Whatſoever thou findeſt in thy hand to do, do it with all thy might: Oc<g ref="char:EOLhyphen"/>cupy till I come, and as every man hath received the gift, ſo let him ad<g ref="char:EOLhyphen"/>miniſter as a good Steward, and to ſerve God with all our might, is a branch of the Moral Law, which is
+<pb n="50" facs="tcp:172537:27"/> not only ſtrongly binding, but perpe<g ref="char:EOLhyphen"/>tual, <hi>Eccl.</hi> 9.10. <hi>Luk.</hi> 19.13. 1 <hi>Pet.</hi> 4.10, 11.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>2</label> That this Requirement is of equal force and validity with an immediate Commiſſion on Earth, or a voice from Heaven, 2 <hi>Pet.</hi> 1.18.19, 20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>3</label> That there is an Apoſtolical Tol<g ref="char:EOLhyphen"/>leration for it, 1 <hi>Cor.</hi> 14.31.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>4</label> That the neceſſities of the Church and of the world doth call aloud for it, <hi>Luk.</hi> 10.2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>5</label> That there is a great uſefulneſs and conveniency in it for light and ſalt to the world, and witneſs for God, fruit every man ought to bear that is capable, <hi>Eph.</hi> 4.29.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>6</label> That whoſoever doth well teach the leaſt Commandment, ſhall be re<g ref="char:EOLhyphen"/>warded for it, <hi>Mat.</hi> 5.19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>7</label> That the ſucceſſion of the Miniſtry revolves upon ordinary abilities by command and ſpecial direction, 2 <hi>Tim.</hi> 2.2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>8</label> That all Doctrinal points are al<g ref="char:EOLhyphen"/>ready
+<pb n="51" facs="tcp:172537:27"/> determined. So that there needs no new Truths nor Miracles to confirm them, 1 <hi>Cor.</hi> 3.11. <hi>Acts</hi> 20.27.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>9</label> That thoſe who have imbraced this good old Doctrine of Chriſt and the Apoſtles, they ought ſo to dilate and extend it, as may render it moſt vi<g ref="char:EOLhyphen"/>ſible to the world, and this is a laſting duty; <hi>Let your light ſo ſhine,</hi> &amp;c. Mat. 5.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>10</label> That ordinary Abilities, where faithfully mannaged, may warrantably make up breaches, and reſtore paths to dwell in, <hi>Eſa.</hi> 58.12.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>11</label> If gifts and abilities are not aſſig<g ref="char:EOLhyphen"/>ned for common benefit, they are in vain,<note place="margin">2 Cor. 6.1.</note> and it reflects careleſneſs upon the bleſſed God, in not aſſigning of them for the proper uſe and end when there was great need of it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>12</label> That Ordination is not Eſſential to the make of a Miniſter, for they ought to be ſo before it, or elſe are unfit to receive it, and ſome have
+<pb n="52" facs="tcp:172537:28"/> Miniſtred before it with good ſuc<g ref="char:EOLhyphen"/>ceſs and bleſſing, as <hi>John Baptiſt,</hi> the Apoſtle St. <hi>Paul, Apollo,</hi> and the ſcat<g ref="char:EOLhyphen"/>tered Saints upon the Perſecution of <hi>Steven.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>13</label> There is good Preſident to Mini<g ref="char:EOLhyphen"/>ſter where there is neither Miracle nor Tongues, nor Commiſſion exten<g ref="char:EOLhyphen"/>ding further then their own Country, even from our great Baptiſt himſelf, who wrought no miracles, ſpake not with Tongues, and whoſe Com<g ref="char:EOLhyphen"/>miſſion carried him not to the gentle world; and to imagine if a man can<g ref="char:EOLhyphen"/>not ſpeak <hi>Syriack</hi> and <hi>Caldea,</hi> that therefore he may not do what good he can with his Mother-Tongue; and if he be not fit to go Embaſſador into Forreign parts, he may not ſerve his Country at home according to his ability, is not only inconvenient and dangerous, but indeed againſt Na<g ref="char:EOLhyphen"/>ture it ſelf.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Conſ. </seg>14</label> That an ordinary ability may make a good Miniſter,<note place="margin">☞</note> if he doth no more
+<pb n="53" facs="tcp:172537:28"/> then ſuch abilities renders him fairly able to perform. See 1 <hi>Tim.</hi> 4.6. And now we ſhall take leave to Ar<g ref="char:EOLhyphen"/>gue a little upon the Premiſes.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> If none be able to ſerve God as Miniſters, then are none able to teach others to ſerve God as Ser<g ref="char:EOLhyphen"/>vants or Subjects (no not their own Children) but ſome have ability to teach others to ſerve God as ſer<g ref="char:EOLhyphen"/>vants, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> If ſome men are able to render the principal parts of the Goſpel intel<g ref="char:EOLhyphen"/>ligible and fit for belief, ſuch as the Being, Nature, and Attributes of God, the Perſon, Offices, and Ex<g ref="char:EOLhyphen"/>cellencies of Chriſt, the Reſurrection of the Body, Eternal Judgment, and the life to come, what imaginable reaſon can be given why they ſhould not have ability to render the leſs principal parts of it intelligible, and fit for practiſe, ſuch as Baptiſm, the Supper of the Lord, and the like; ſeeing there is the ſame plain Rule for
+<pb n="54" facs="tcp:172537:29"/> the one, as for the other; the one as eaſie to be underſtood and unſolded as the other, and no more ſtill re<g ref="char:EOLhyphen"/>quired for the one, then for the other: The Argument from hence will be good, that the ſame pains taken, the ſame methods uſed that inables for the greater, will undoubtedly do ſo for the leſſer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> If ſome men are not able to un<g ref="char:EOLhyphen"/>derſtand and unfold the Miſteries and truths of the Goſpel in all neceſſary and moſt weighty points,<note place="margin">Major.</note> then is all the Chriſtian world deceived in mat<g ref="char:EOLhyphen"/>ters of the higheſt weight and conſi<g ref="char:EOLhyphen"/>deration, for all the Chriſtian world agrees, that it is <hi>de facto</hi> true: And therefore they believe and profeſs; but certainly all the Chriſtian world is not deceived,<note place="margin">Minor.</note> and conſequently like to periſh; the concluſion then is that ſuch abilitys are or have lately been, &amp; have a good warrant for their uſe and exerciſe, which we make good as followeth.</p>
+            <pb n="55" facs="tcp:172537:29"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> If men may not imploy their ſtrength and abilitys in the Service of God, without the gift of Tongues, miracles and Immediate commiſſion, or an ordination by Lineal ſucceſſion, then is not only the Moral Law made void, which binds men to ſerve God according to ſtrength and ability, but alſo the beſt gifts and abilitys of men are rendered uſeleſs and inſignificant in matters of the higheſt importance, <hi>(viz.)</hi> the ſervice of God and the Souls of men: upon which we argue, that principle which undermines and makes void the deſigne of the Moral Law,<note place="margin">Major.</note> and renders the beſt and great<g ref="char:EOLhyphen"/>eſt abilitys of men uſeleſs and inſig<g ref="char:EOLhyphen"/>nificant in the matters of Religion, is abſurd and dangerous not to be re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>But that principle that denys Au<g ref="char:EOLhyphen"/>thorty to men to be Miniſters,<note place="margin">Minor.</note> doth ſo, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> If it be lawful and warrantable for men to improve their higheſt ſtrains<note place="margin">Major.</note>
+               <pb n="56" facs="tcp:172537:30"/> of knowledge and skill for the good of others in things civil and mechani<g ref="char:EOLhyphen"/>cal, then it is lawful and warrantable for men to do ſo in things Celeſtial and Evangelical; if I may teach a man to learn his trade, to buy his clothes, to get his living, to build and furniſh a houſe for his convenien<g ref="char:EOLhyphen"/>cy of Temporal life, doutleſs I may, if able, teach men to know Chriſt, to ſerve God and to get Salvation.</p>
+            <p>
+               <note place="margin">Minor.</note>But it is lawfull and warrantable for men to improve the higheſt ſtrains of knowledge and skill in matters civil and mechanical, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> If it be not lawful and warrant<g ref="char:EOLhyphen"/>able for men to improve their high<g ref="char:EOLhyphen"/>eſt ſtrains o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knowledge and skill in heavenly and Spiritual things,<note place="margin">Major.</note> Then are th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y under no obligation to im<g ref="char:EOLhyphen"/>prove their Talents.</p>
+            <p>
+               <note place="margin">Minor</note>But men are under an obligation to improve their Talents, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> If men are under no obligation to improve their Talents in Spiritual
+<pb n="57" facs="tcp:172537:30"/> things, then they are under no obli<g ref="char:EOLhyphen"/>gation to ſerve God, and the Souls of their Neighbours.</p>
+            <p>But they are bound to do both, according to power and opportunity, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> If they are not bound to ſerve God and the Souls of others according to power and opportunity.</p>
+            <p>Then it is no ſin to neglect both; but it is a ſin to neglect both, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>9</label> If it be no ſin not to ſerve God and men according to power and oppor<g ref="char:EOLhyphen"/>tunity, then are not men Accountable for it.</p>
+            <p>But men are accountable for it, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>10</label> If men are not accountable for the none ſervice of God, and men accord<g ref="char:EOLhyphen"/>ing as aforeſaid.</p>
+            <p>Then they ſhall not be condemned for it; but they ſhall be condemned for it, <hi>Ergo, Mat.</hi> 25.41, 42, 43, 44.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>11</label> That which men have the expreſs
+<pb n="58" facs="tcp:172537:31"/> word of God requiring, they have good Authority to perform.</p>
+            <p>
+               <note place="margin">1 Pet. 4.10.</note>But the expreſs word of God re<g ref="char:EOLhyphen"/>quires men to miniſter that have abi<g ref="char:EOLhyphen"/>lity, <hi>Ergo,</hi> they have good Authority to perform it, <hi>Eccl.</hi> 9.10. <hi>Luk.</hi> 19.13.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>12</label> That which is good in its own na<g ref="char:EOLhyphen"/>ture,<note place="margin">Major.</note> men have good Authority to perform, <hi>Phil.</hi> 4.8, 9.</p>
+            <p>
+               <note place="margin">Minor.</note>But to Miniſter in the things of God is good in it's own Nature, <hi>ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>13</label> That which is uſeful, profitable, and beneficial to others,<note place="margin">Major.</note> men have good Authority to perform.</p>
+            <p>But to Miniſter in the things of God, is uſeful, profitable, and bene<g ref="char:EOLhyphen"/>ficial to others, <hi>Ergo,</hi> Acts 18.27.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>14</label> What is moſt effectual for the ſup<g ref="char:EOLhyphen"/>preſſing of Sin,<note place="margin">Major.</note> men have good Au<g ref="char:EOLhyphen"/>thority to perform.</p>
+            <p>
+               <note place="margin">Minor.</note>But to Miniſter is moſt effectual to ſuppreſs Sin, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>15</label> That which tends to advance Chriſt,<note place="margin">Major.</note> and comfort his Church, men have good Authority to perform.</p>
+            <pb n="59" facs="tcp:172537:31"/>
+            <p>But to Miniſter,<note place="margin">Minor.</note> tends moſt there<g ref="char:EOLhyphen"/>to, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>16</label> That which the Example of the beſt Ages leads to,<note place="margin">Major</note> men have good Authority to perform, <hi>Can.</hi> 1.8. <hi>Phil.</hi> 4.9.</p>
+            <p>But to Miniſter the things of God,<note place="margin">Minor.</note> the example of the beſt Ages leads to, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>17</label> That which tends to ſeaſon, and keep the world from ſtinking,<note place="margin">Major.</note> men have good Authority to perform.</p>
+            <p>But a Miniſtry tends thereto, <hi>ergo,</hi>
+               <note place="margin">Minor.</note> 
+               <hi>Mat.</hi> 5.13.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>18</label> That which is moſt conducable to keep up the Rules of Religion,<note place="margin">Major.</note> men have good Authority to perform.</p>
+            <p>But a Miniſtry is moſt conducable thereto, <hi>Ergo,</hi> Luk. 22.32.<note place="margin">Minor.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>19</label> That which keeps the world from an univerſal detriment by a total E<g ref="char:EOLhyphen"/>clips,<note place="margin">Major.</note> men have good Authority to perform.</p>
+            <p>But a Miniſtry doth ſo, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> Pſal. 43.3. Rom. 2.19. chap. 13.12.</p>
+            <pb n="60" facs="tcp:172537:32"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>20</label> That which moſt tends to make men the Servants of God,<note place="margin">Major.</note> men have good Authority to perform.</p>
+            <p>
+               <note place="margin">Minor.</note>But a Miniſtry moſt tends thereto, <hi>Ergo,</hi> 1 <hi>Theſ.</hi> 1.9.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>21</label> If to teach the leaſt Command<g ref="char:EOLhyphen"/>ments of God be required and re<g ref="char:EOLhyphen"/>wardable,<note place="margin">Major.</note> men have good Authority to perform it.</p>
+            <p>
+               <note place="margin">Minor.</note>But to teach the leaſt Command<g ref="char:EOLhyphen"/>ments of God is ſo, <hi>Ergo, Mat.</hi> 5.19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>22</label> Where men have ability to exhort they have good authority to perform, <hi>Heb.</hi> 3.12.</p>
+            <p>
+               <note place="margin">Minor.</note>But men have ability to exhort, <hi>Ergo.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>23</label> Where men have ability to feed the Church,<note place="margin">Major.</note> they have good autho<g ref="char:EOLhyphen"/>rity to perform.</p>
+            <p>
+               <note place="margin">Minor.</note>But men have ſo, <hi>Ergo, Mat.</hi> 24.45, 46. <hi>Acts</hi> 20.25.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>24</label> If men have ability to build on the moſt holy Faith,<note place="margin">Major.</note> they have a good Authority to perform, <hi>Jud.</hi> 20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>25</label> If men have ability to uſe the
+<pb n="61" facs="tcp:172537:32"/> Word of God for the beſt advantage againſt Satan, they have a good Au<g ref="char:EOLhyphen"/>thority to perform, <hi>Eph.</hi> 6.17.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>26</label> If men have ability to contend for the Faith, they have a good Autho<g ref="char:EOLhyphen"/>rity to perform, <hi>Jude verſ.</hi> 3.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>27</label> If men have ability to Propheſie, they have a good Authority to per<g ref="char:EOLhyphen"/>form, 1 <hi>Cor.</hi> 14.31. <hi>All may Propheſie, if in order, and not in confuſion.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>28</label> If men can pluck fire-brands out of the fire, there is good warrant to perform, <hi>Jude</hi> 23. <hi>verſ.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>29</label> If men can ſeparate the pretious from the vile, there is good warrant to perform, <hi>Jer.</hi> 15.19.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>30</label> If men can ſtand in Gods Counſel, there is good warrant to miniſter, <hi>Jer.</hi> 23.21.22.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>31</label> If men can ſtrengthen under bur<g ref="char:EOLhyphen"/>thens by a miniſtry, there is good warrant to perform, <hi>Gal.</hi> 6.2.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>32</label> If men can watch over one another, there is good warrant to teach and In<g ref="char:EOLhyphen"/>ſtruct, for that is the very deſign of watchfulneſs.</p>
+            <pb n="62" facs="tcp:172537:33"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>33</label> If men can give a Reaſon of the hope that is in them, there is good warrant to perform, 1 <hi>Pet.</hi> 3.15.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>34</label> If Women have Authority to Mi<g ref="char:EOLhyphen"/>niſter according to ability and occaſi<g ref="char:EOLhyphen"/>on, (though not in the Church, or to Uſurp) then men have upon the ſame ground. But Women have, <hi>Ergo, Tit.</hi> 2.3, 4. <hi>Acts</hi> 18.26.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>35</label> It a man ſhall do that which an or<g ref="char:EOLhyphen"/>dinary ability is capable of, it is a ſuf<g ref="char:EOLhyphen"/>ficient qualification to make him a good miniſter, 1 <hi>Tim.</hi> 4 6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>36</label> If men have a good Authority to miniſter things greater than Baptiſm,<note place="margin">Major.</note> and Equivolent to Baptiſm, Then they have a good Authority to mini<g ref="char:EOLhyphen"/>ſter that.</p>
+            <p>
+               <note place="margin">Minor.</note>But they have a good Authority to miniſter things greater and equivo<g ref="char:EOLhyphen"/>lent, <hi>Ergo,</hi> they have a good Autho<g ref="char:EOLhyphen"/>rity to miniſter that.</p>
+            <p>If they have not as good Authority to Adminiſter Baptiſm as things greater and Equivolent.</p>
+            <pb n="63" facs="tcp:172537:33"/>
+            <p>Then they are ſomewhere exem<g ref="char:EOLhyphen"/>pted from it.</p>
+            <p>But they are no where exempted from it, <hi>Ergo.</hi>
+            </p>
+            <p>And if the Baptiſm, and the mini<g ref="char:EOLhyphen"/>ſtry of it be out of date, let it be ſhewed plainly, for our minor Pro<g ref="char:EOLhyphen"/>poſition calls for it, being an Uni<g ref="char:EOLhyphen"/>verſal Negative.</p>
+            <p>The concluſion is, if men are able to teach the Nature, manner, and end of Baptiſm, and miniſter the ſame, they have as good Authority to do it as the other Duties already men<g ref="char:EOLhyphen"/>tioned.</p>
+            <p>Thus having made good a war<g ref="char:EOLhyphen"/>ranty grounded upon ability for men to Miniſter; we come next to the Third propoſition, <hi>(viz.)</hi> to put it upon a fair Iſſue, whether there be any in this Age whoſe ability Ren<g ref="char:EOLhyphen"/>ders their perſons fit, and their Mini<g ref="char:EOLhyphen"/>ſtry warrantable.</p>
+            <p>In anſwer to this inquiry, I ſhall offer but 3 things, becauſe I would
+<pb n="64" facs="tcp:172537:34"/> not have this Tract grow bigger than a Pocket companion.</p>
+            <p n="1">1. If there be no able and true Mi<g ref="char:EOLhyphen"/>niſters in this Age, then there is no Right or true Believers, becauſe the faith of the Age is grounded upon a Miniſtry delivered either written or verbal.</p>
+            <p n="2">2. That this Age affords men as knowing and well vers'd both in Scripture and Philoſophy as any by paſt Ages (men Marvelouſly inſpired only excepted) which might eaſily be made out by Inſtances, if there was convenient Room to be afforded.</p>
+            <p n="3">3. If any ſhall deny that any per<g ref="char:EOLhyphen"/>ſons in this Age have ability ſo to fit them to be Miniſters, as renders their miniſtry warrantable, let them ſet forth their denial, and they ſhall be undertaken.</p>
+            <p>And ſo we come to the Third ge<g ref="char:EOLhyphen"/>neral head <hi>(viz)</hi> to affirme that the Son of God, our bleſſed Saviour and
+<pb n="65" facs="tcp:172537:34"/> Redeemer was before or had a preex<g ref="char:EOLhyphen"/>ſiſtency to his being Conceived of the Virgin, which we ſhall be but very ſhort in: for the proof of which, we levy theſe following Arguments.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>1</label> If our bleſſed Saviour was truly the firſt born of every Creature,<note place="margin">Major.</note> then he had a Pre-exiſtency to his be<g ref="char:EOLhyphen"/>ing conceived of the Virgin.</p>
+            <p>But he was truly the firſt born of every Creature, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> he had a Pre-exiſtency, <hi>Coll.</hi> 1.15. <hi>Heb.</hi> 1.6.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>2</label> If the Son of God our bleſſed Lord and Saviour had a hand in making of the World;<note place="margin">Major.</note> then he had a Pre-exi<g ref="char:EOLhyphen"/>ſtency to the Virgins Conception.</p>
+            <p>But the Son of God our bleſſed Lord and Saviour had a hand in the Creation of the World, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> he had a Pre-exiſtency, <hi>John</hi> 1.10. <hi>Coll.</hi> 1.16.17. <hi>Heb.</hi> 2.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>3</label> If our Lord Chriſt was before <hi>John Baptiſt</hi> not only in preferency but exſiſtency.<note place="margin">Major.</note>
+            </p>
+            <p>Then he had a Pre-exiſtency to the<note place="margin">Minor.</note>
+               <pb n="66" facs="tcp:172537:35"/> Virgins conception.<note place="margin">
+                  <hi>John.</hi> 1.30.</note> But our Lord Chriſt was before <hi>John Baptiſt</hi> not only in preferency, but exſiſtency, <hi>Ergo,</hi> he had a Pre-exſiſtency to the Virgins Conception.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>4</label> If our Lord and Saviour had no begining of dayes in ſome true ſence and conſiderable reſpect; Then he had a Pre-exſiſtancy to the Virgins Conception.</p>
+            <p>
+               <note place="margin">
+                  <hi>Heb.</hi> 1.3.</note>But our Lord and Saviour had no beginnings of days in ſome true ſence and conſiderable reſpect, <hi>Ergo,</hi> he had a Pre-exſiſtency.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>5</label> If Chriſt went and preached with<g ref="char:EOLhyphen"/>in the Compaſs of the Age and dayes of <hi>Noah,</hi>
+               <note place="margin">Major.</note> then he had a Pre-exiſtency to the Virgins conception.</p>
+            <p>
+               <note place="margin">Minor.</note>According to that known maxim, Eſſence alwayes preceeds operation: But Chriſt went and Preached with<g ref="char:EOLhyphen"/>in the compaſs of the Age and days of <hi>Noah,</hi> 1 <hi>Pet.</hi> 3.18.19.20. <hi>Ergo,</hi> he had a Pre-exiſtency to the Virgins conception.</p>
+            <pb n="67" facs="tcp:172537:35"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>6</label> If Chriſt was the Root of <hi>David,</hi>
+               <note place="margin">Major.</note> then he had a Pre-exiſtency to the Virgins conception.</p>
+            <p>But Chriſt was the Root of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> Ergo, <hi>Revel.</hi> 22.16.<note place="margin">Minor.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>7</label> If Chriſt was before <hi>Abraham,</hi> then he had a Pre-exiſtency to the Virgins Conception.<note place="margin">Major.</note>
+            </p>
+            <p>But Chriſt was before <hi>Abraham,</hi>
+               <note place="margin">Minor.</note> Ergo, <hi>John</hi> 8.58.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>8</label> If Chriſt was High and Rich be<g ref="char:EOLhyphen"/>fore he became Low and Poor,<note place="margin">Major.</note> then he had a Pre-exiſtency to the Virgins Conception.</p>
+            <p>But Chriſt was High and Rich be<g ref="char:EOLhyphen"/>fore he became low and poor, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note> 2 Cor. 8.9. <hi>Phil.</hi> 2.6.7.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>9</label> If Chriſt was not before conceived of the Virgin,<note place="margin">Major.</note> then was the glory of the Creation, (<hi>viz.</hi> Angels and men) left a headleſs Creation, and in com<g ref="char:EOLhyphen"/>pleat till after the Virgin <hi>Mary,</hi> 1 <hi>Cor.</hi> 11.3. 2 <hi>Col.</hi> 10.</p>
+            <p>But the Creation was not left headleſs and incompleat, <hi>Ergo,</hi>
+               <note place="margin">Minor.</note>
+               <pb n="68" facs="tcp:172537:36"/> Chriſt the Head of it was before.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>10</label> If Chriſt was not till conceived of the Virgin,<note place="margin">Major.</note> then the world was with<g ref="char:EOLhyphen"/>out a Mediator for the ſpace of Four Thouſand Years, or 42 Generations (the conſequence of this Hypotheſis, we want both time and room to diſ<g ref="char:EOLhyphen"/>courſe, but at the firſt look of it, it beſpeaks great caution and pauſe.)</p>
+            <p>But methinks a poor ſinful world ſhould not be without a Mediator ſo long a time,<note place="margin">Minor.</note> 
+               <hi>Ergo,</hi> the great Media<g ref="char:EOLhyphen"/>tor of the New Covenant did Exiſt before.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>11</label> If there was a Promiſe made in him,<note place="margin">Major.</note> by him, or to him, before the world began, Then he had a Pre<g ref="char:EOLhyphen"/>exiſtency to the Virgins Conception.</p>
+            <p>But there was a Promiſe made in him,<note place="margin">Minor.</note> by him, or to him, before the World began, <hi>Ergo,</hi> 1 <hi>Tit.</hi> 2. 2 <hi>Cor.</hi> 1.20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>12</label> If the Son of God be the Perſon meant by <hi>Solomon,</hi>
+               <note place="margin">Maj.</note> 
+               <hi>Prov.</hi> 8.22.23. That was ſet up from everlaſting, be<g ref="char:EOLhyphen"/>fore
+<pb n="69" facs="tcp:172537:36"/> the world was; then he had a Pre-exiſtency to the Virgins Con<g ref="char:EOLhyphen"/>ception.</p>
+            <p>But the Son of God is the Perſon there meant by <hi>Solomon, Ergo.</hi>
+               <note place="margin">Minor.</note>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>13</label> If the Angel of Gods Preſence, and great <hi>Michael,</hi>
+               <note place="margin">Major.</note> (ſo frequently ſpoken of in the holy Scriptures (that is ſet forth to be the Prince of the Jews, and head of Angels) <hi>Dan.</hi> 10.21. <hi>Prov.</hi> 12.7. Be meant of Chriſt the Son of God, then he had a Pre-exiſtency to the Virgins Conception.</p>
+            <p>But by the great <hi>Michael</hi> aforeſaid is meant Chriſt the Son of God, <hi>ergo,</hi>
+               <note place="margin">Minor.</note> he had a Pre-exiſtency to the Virgins Conception.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>14</label> If the Children of <hi>Iſrael</hi> in their Journy through the Wilderneſs,<note place="margin">Major.</note> in the days of <hi>Moſes,</hi> did both partake of him, and provoke him, then he had a Pre-exiſtency to his Being con<g ref="char:EOLhyphen"/>ceived of the Virgin.</p>
+            <p>But the Children of <hi>Iſrael</hi> did then both partake of him,<note place="margin">Minor.</note> and provoke
+<pb n="70" facs="tcp:172537:37"/> him, <hi>Ergo,</hi> 1 <hi>Cor.</hi> 10.4.10.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Arg. </seg>15</label> If Chriſt had a Glory with the Fa<g ref="char:EOLhyphen"/>ther before the World began, then he had a Pre-exiſtency to the Virgins Conception.</p>
+            <p>
+               <note place="margin">
+                  <hi>Joh.</hi> 17.5.</note>But he had a Glory with the Fa<g ref="char:EOLhyphen"/>ther before the world began, <hi>Ergo,</hi> he had a Pre-exiſtency. More might be ſaid, but this ſhall ſerve.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>Five Short Arguments in favour of that Principle that concludes the Di<g ref="char:EOLhyphen"/>vine Authority of the Scriptures; And the Authors Requeſt to his Friend.</p>
+               <div type="proposition">
+                  <head>PROPOSITION.</head>
+                  <p>Thoſe that deny the Doctrine of Chriſt and his Apoſtles to be the Words of God, or to be of Divine Authority, are no Chriſtians.</p>
+                  <p>The reaſon of this Propoſition is, becauſe there is but one general way
+<pb n="71" facs="tcp:172537:37"/> to make a Chriſtian, <hi>(viz.)</hi> an Infor<g ref="char:EOLhyphen"/>mation or conviction of the under<g ref="char:EOLhyphen"/>ſtanding and judgment concerning the Exiſtency, Authority, and Acts of Chriſt, And there is but three ways for this to be done, <hi>viz.</hi> by imme<g ref="char:EOLhyphen"/>diate revelation, as a voice from Hea<g ref="char:EOLhyphen"/>ven or the like; Authentick re<g ref="char:EOLhyphen"/>cords, or the teſtimony of ordinary men; the firſt of theſe is not now experienced; the laſt cannot do the thing; therefore it muſt be the other, namely, Authentick Records; from hence we Argue.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>1</label> Thoſe that raze up and overthrow the very ground work and foundati<g ref="char:EOLhyphen"/>on of Chriſtianity, are no Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+                  <p>But who ſo doth deny the Doct<g ref="char:EOLhyphen"/>rine of Chriſt and his Apoſtles to be the word of God, or of Divine Au<g ref="char:EOLhyphen"/>thority, doth raze up the very ground work and foundation of Chriſtianity, <hi>Ergo.</hi>
+                  </p>
+                  <p>The reaſon of the <hi>Major</hi> is, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="72" facs="tcp:172537:38"/> there can be no ſuch thing as Chriſtianity without a bottom, ground, or foundation.</p>
+                  <p>The <hi>Minor</hi> thus proved.</p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>2</label> If there be no other ground work or foundation of Chriſtianity demon<g ref="char:EOLhyphen"/>ſtrable but what is ſet forth or com<g ref="char:EOLhyphen"/>prehended in the doctrine of Chriſt and his Apoſtles, then thoſe that de<g ref="char:EOLhyphen"/>ny the divine Authority of that do<g ref="char:EOLhyphen"/>ctrine do Raze the foundation.</p>
+                  <p>But there is no other foundation of Chriſtianity, <hi>Ergo.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>3</label> If ſuch may be Chriſtians that denies the ſayings of Chriſt and his Apoſtles to be the word of God, or of divine Authority, then they may be proved ſo by the common conſent of Chriſtians, or ſome other infalla<g ref="char:EOLhyphen"/>ble ground.</p>
+                  <p>But they cannot be proved ſo by any of theſe, <hi>Ergo.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>4</label> If they can be proved ſo by any of theſe, then it may be convincingly made to appear.</p>
+                  <pb n="73" facs="tcp:172537:38"/>
+                  <p>But it cannot convincingly be made to appear, <hi>Ergo.</hi>
+                  </p>
+                  <p>
+                     <label type="milestone">
+                        <seg type="milestoneunit">Arg. </seg>5</label> If it can convincingly be made to appear, then it is by the works of Miracles or ſome other evidence e<g ref="char:EOLhyphen"/>quivolent to it.</p>
+                  <p>But there is none can by the works of Miracles or evidence equivolent make it appear, <hi>Ergo.</hi>
+                  </p>
+                  <p>The <hi>Minor</hi> is an univerſal negative that requires an Inſtance, and if any will undertake to give it, let him come forth that he may be proved.</p>
+                  <p>The Authors Requeſt to his friend, is to over look weakneſſes; becauſe,</p>
+                  <p n="1">1. A new beginner.</p>
+                  <p n="2">2. No Schollar, and learning is ſuch a thing that he thinks his great un<g ref="char:EOLhyphen"/>happineſs was; his miſſing ſo happy an education.</p>
+                  <p n="3">3. Hath no Books to help him but that of Nature and the holy Bible.</p>
+                  <p n="4">4. Wants time ſuited to ſuch un<g ref="char:EOLhyphen"/>dertakings, being taken off from that delightful and neceſſary thing called
+<pb n="74" facs="tcp:172537:39"/> ſtudy by the carefull and Trouble<g ref="char:EOLhyphen"/>ſome concerns of the World.</p>
+                  <p n="5">5. If this be not liked of, I ſhall deſire and be ready to be thankfully Inſtructed into any better way.</p>
+                  <p n="6">6. If any ſhall conteſt with me a<g ref="char:EOLhyphen"/>bout the premiſes, I beſeech them to do it as with a child, even a babe in Religion.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172537:39"/>
+            <head>Three Queſtions offered to be diſ<g ref="char:EOLhyphen"/>puted with <hi>John Bunion</hi> before any publique Audience either in City or Countrey, viz.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> Whether our Bleſſed Savour hath not Inſtituted a certain order to be obſerv'd by his followers in the ad<g ref="char:EOLhyphen"/>minſtration of Goſpel ordinances if ſo, then.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> Whether according to that order Baptiſm with water is not to go be<g ref="char:EOLhyphen"/>fore the celebration of the Lords ſupper; If ſo, then;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> Whether <hi>John Bunion</hi> or any ſuch as he is may preſume to break it.</p>
+         </div>
+         <div type="certificate">
+            <pb facs="tcp:172537:40"/>
+            <head>This is to Certify.</head>
+            <p>That Thoſe three famous Medi<g ref="char:EOLhyphen"/>cines mention<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the Advertiſement following, for the better accomoda<g ref="char:EOLhyphen"/>tion of ſuch as live at a diſtance, are ſold as followeth, by Mr. <hi>Robert Scott Millener</hi> over againſt the Croſs in St. <hi>Albans,</hi> and at his ſeveral ſhops in the places following, <hi>viz.</hi> At <hi>Barnet</hi> on <hi>Mondaies,</hi> at <hi>Watford</hi> on <hi>Tueſdaies</hi> and at <hi>Hempſtead</hi> on <hi>Thurſdaies,</hi> and By Mr. <hi>Benj. Harris</hi> Bookſeller at the <hi>Stationers Arms</hi> in <hi>Sweetings Alley</hi> near the <hi>Royall Exchange, London.</hi> By Mr. <hi>Richard Rooke diſtiller,</hi> at the <hi>Maiden-head</hi> in <hi>Golden lane.</hi> By Mr. <hi>Manſel Grocer</hi> over againſt <hi>St. Giles Church</hi> in the fields, being all truly prepared By <hi>W. Ruſſel</hi> Profeſſer of <hi>Phyſick,</hi> at the Sign of St. <hi>Luke</hi> in St. <hi>Batholomews Cloſe, London,</hi> who doth undertake the Cure of moſt Curable diſtempers, with as much eaſe, ſpeed, and ſafety, and at as ſmall a charge as can in reaſon be deſired.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:172537:40"/>
+            <head>Theſe Books following are Printed for, and ſold by <hi>Benjamin Harris,</hi> at his ſhop, at the Sign of the Stationers Arms in <hi>Sweethings-Rents,</hi> at the Eaſt-<hi>end</hi> of the <hi>Royal Exchange</hi> in <hi>Corn<g ref="char:EOLhyphen"/>hil.</hi>
+            </head>
+            <p n="1">1 <hi>WAR with the Devil,</hi> or <hi>the Young Mans Conflict with the powers of darkneſs, in</hi> a dialogue, diſcovering the corruption and va<g ref="char:EOLhyphen"/>nity of Youth, the horrible nature of ſin, and the deplorable condition of fallen Man, alſo a definition, power, rule, and Conſcience, and the nature of true converſion; to which is added, an <hi>Appendix,</hi> containing a Dialogue between an old <hi>Apoſtate,</hi> and a young <hi>Convert,</hi> by <hi>B. K.</hi> the third Impreſſion.</p>
+            <p n="2">2. <hi>Darkneſs vaniſhed,</hi> or <hi>Truth in its primitive purity;</hi> being a Treatiſe of laying on of hands, in anſwer to Mr. <hi>Henry Danvers,</hi> by <hi>B. K.</hi>
+            </p>
+            <p>
+               <hi>The Grand Impoſtor diſcovered,</hi> or <hi>the Quakers Doctrine weighed in the Ballance, and found wanting,</hi> in a Dialogue between a young Convert, and a Quaker, by the ſame Author, <hi>B. K.</hi>
+            </p>
+            <p n="4">4. <hi>The Beauty, Vigour, and ſtrength of Youth,</hi> Be<g ref="char:EOLhyphen"/>ſpoke for God, in a Sermon lately Preached to Young Men. By <hi>Thomas Powell</hi> Miniſter of the Goſpel.</p>
+            <p n="5">5. <hi>The Parable of the Kingdom of Heaven ex<g ref="char:EOLhyphen"/>pounded,</hi> or <hi>an Expoſition upon the firſt</hi> 13 <hi>verſes of the</hi> 25th. <hi>Chapter</hi> of Matthew by <hi>Hanſor Knollis</hi> Miniſter of the Goſpel, in Octavo.</p>
+            <p n="6">
+               <pb facs="tcp:172537:41"/>6. <hi>The accompliſhed Ladies delight, in Preſerving, Phyſick, Beautifying, and Cookery.</hi> 1. Containing the Art of preſerving, and Candying Fruits and Flowers; and the making of all ſorts of Con<g ref="char:EOLhyphen"/>ſerving Syrups, and Jellies. 2. The Phyſical Ca<g ref="char:EOLhyphen"/>binet, or excellent Receits in Phyſick and Chy<g ref="char:EOLhyphen"/>rurgery; together with ſome rare beautifying Waters to adorn, and add lovelineſs to the Face and Body; and alſo new and excellent ſecrets, and experiments in the Art of Angling.</p>
+            <p n="7">7. <hi>Baptiſm diſcovered, plainly and faithfully a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cording to the word of God;</hi> wherein is ſet forth the glorious Pattern of our bleſſed Saviour Jeſus Chriſt, the Pattern of all Believers, in his ſub<g ref="char:EOLhyphen"/>jection to Baptiſm; together with the Exam<g ref="char:EOLhyphen"/>ples of thouſands who were Baptized after they believed. Written by <hi>John N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcot,</hi> a Servant o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Jeſus Chriſt, and of his Church.</p>
+            <p n="8">8. <hi>Mentis Humanae, metamorphoſes ſive converſio,</hi> The Hiſtory of the young converted Gallant, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> directions to the Reader of that Divine Poem, Entituled, <hi>War with the Devil.</hi> By <hi>John Maſon</hi> of <hi>Fordham</hi> in <hi>Cambridge-ſhire.</hi>
+            </p>
+            <p n="9">9. <hi>Anima Aſtrologiae,</hi> or, <hi>A Guide to Aſtrologers;</hi> being the conſiderations of <hi>Guido Bonatus,</hi> and the choiceſt Aporiſmes of <hi>Cardans</hi> 7. <hi>Segments</hi> Engliſhed; a Piece long expected and promiſ<g ref="char:EOLhyphen"/>ed in his laſt years Almanack 1675. being very uſeful and neceſſary to all Artiſts in giving Judgment; and commended as ſuch by <hi>William Lilly,</hi> Student <hi>in Aſtrology.</hi>
+            </p>
+            <pb facs="tcp:172537:41"/>
+            <pb facs="tcp:172537:42"/>
+         </div>
+      </back>
+   </text>
+</TEI>
